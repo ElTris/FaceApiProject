@@ -1,0 +1,29 @@
+ @import url('https://fonts.googleapis.com/css?family=Hepta+Slab&display=swap');
+  body{
+    justify-content: center;
+    align-items: center;
+  }
+  .content {
+    margin-top:60px;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  canvas {
+    align-items: center;
+    position: absolute;
+  }
+  #identificador{
+    width: 500px;
+    height: 60px;;
+    margin: 20px auto;
+    justify-content: center;
+    align-items: center;
+    
+  }
+  p{
+    font-family: 'Hepta Slab', serif;
+    font-size: 20px;
+  }
